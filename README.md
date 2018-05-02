@@ -51,3 +51,4 @@
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [ruby](.&#x2F;solutions&#x2F;297.serialize-and-deserialize-binary-tree&#x2F;serialize-and-deserialize-binary-tree.rb)|Hard|35.22%||
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)| [ruby](.&#x2F;solutions&#x2F;325.maximum-size-subarray-sum-equals-k&#x2F;maximum-size-subarray-sum-equals-k.rb)|Medium|43.07%|:heavy_check_mark:|
 
+# natec-leetcode-pages
