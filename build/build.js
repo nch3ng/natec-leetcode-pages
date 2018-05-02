@@ -9,6 +9,9 @@ var ora = require('ora')
 var webpack = require('webpack')
 var webpackConfig = require('./webpack.prod.conf')
 
+console.log(config.build);
+console.log('====================');
+console.log(config);
 console.log(
   '  Tip:\n' +
   '  Built files are meant to be served over an HTTP server.\n' +
@@ -19,6 +22,7 @@ var spinner = ora('building for production...')
 spinner.start()
 
 var assetsPath = path.join(config.build.assetsRoot, config.build.assetsSubDirectory)
+
 rm('-rf', assetsPath)
 mkdir('-p', assetsPath)
 cp('-R', 'static/*', assetsPath)
