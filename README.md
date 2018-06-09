@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-32/742(133)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-35/762(133)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-2-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-12-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-18-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-14-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-19-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
-    <b>Language: java ruby javascript</b>
+    <b>Language: java ruby javascript python</b>
     <br>
-    <b>Last updated: 2018-05-01</b>
+    <b>Last updated: 2018-06-09</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -39,6 +39,7 @@
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [java](.&#x2F;solutions&#x2F;150.evaluate-reverse-polish-notation&#x2F;evaluate-reverse-polish-notation.java) [ruby](.&#x2F;solutions&#x2F;150.evaluate-reverse-polish-notation&#x2F;evaluate-reverse-polish-notation.rb)|Medium|28.58%||
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [ruby](.&#x2F;solutions&#x2F;173.binary-search-tree-iterator&#x2F;binary-search-tree-iterator.rb)|Medium|43.67%||
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/)| [ruby](.&#x2F;solutions&#x2F;199.binary-tree-right-side-view&#x2F;binary-tree-right-side-view.rb)|Medium|42.61%||
+|200|[number-of-islands](https://leetcode.com/problems/number-of-islands/)| [python](.&#x2F;solutions&#x2F;200.number-of-islands&#x2F;number-of-islands.py)|Medium|37.04%||
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [ruby](.&#x2F;solutions&#x2F;206.reverse-linked-list&#x2F;reverse-linked-list.rb)|Easy|46.81%||
 |217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate/)| [ruby](.&#x2F;solutions&#x2F;217.contains-duplicate&#x2F;contains-duplicate.rb)|Easy|47.22%||
 |219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/)| [ruby](.&#x2F;solutions&#x2F;219.contains-duplicate-ii&#x2F;contains-duplicate-ii.rb) [java](.&#x2F;solutions&#x2F;219.contains-duplicate-ii&#x2F;contains-duplicate-ii.java)|Easy|32.89%||
@@ -50,5 +51,6 @@
 |292|[nim-game](https://leetcode.com/problems/nim-game/)| [ruby](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.rb)|Easy|55.38%||
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [ruby](.&#x2F;solutions&#x2F;297.serialize-and-deserialize-binary-tree&#x2F;serialize-and-deserialize-binary-tree.rb)|Hard|35.22%||
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)| [ruby](.&#x2F;solutions&#x2F;325.maximum-size-subarray-sum-equals-k&#x2F;maximum-size-subarray-sum-equals-k.rb)|Medium|43.07%|:heavy_check_mark:|
+|768|[partition-labels](https://leetcode.com/problems/partition-labels/)| [python](.&#x2F;solutions&#x2F;768.partition-labels&#x2F;partition-labels.py)|Medium|64.54%||
+|837|[most-common-word](https://leetcode.com/problems/most-common-word/)| [python](.&#x2F;solutions&#x2F;837.most-common-word&#x2F;most-common-word.py)|Easy|49.51%||
 
-# natec-leetcode-pages
