@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-37/762(133)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-2-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-43/766(133)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-4-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-15-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-20-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-24-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java ruby javascript python</b>
     <br>
-    <b>Last updated: 2018-06-09</b>
+    <b>Last updated: 2018-06-14</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -38,7 +38,9 @@
 |139|[word-break](https://leetcode.com/problems/word-break/)| [ruby](.&#x2F;solutions&#x2F;139.word-break&#x2F;word-break.rb)|Medium|31.81%||
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [ruby](.&#x2F;solutions&#x2F;144.binary-tree-preorder-traversal&#x2F;binary-tree-preorder-traversal.rb)|Medium|47.36%||
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [ruby](.&#x2F;solutions&#x2F;145.binary-tree-postorder-traversal&#x2F;binary-tree-postorder-traversal.rb)|Hard|42.98%||
+|146|[lru-cache](https://leetcode.com/problems/lru-cache/)| [python](.&#x2F;solutions&#x2F;146.lru-cache&#x2F;lru-cache.py)|Hard|20.29%||
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [java](.&#x2F;solutions&#x2F;150.evaluate-reverse-polish-notation&#x2F;evaluate-reverse-polish-notation.java) [ruby](.&#x2F;solutions&#x2F;150.evaluate-reverse-polish-notation&#x2F;evaluate-reverse-polish-notation.rb)|Medium|28.84%||
+|155|[min-stack](https://leetcode.com/problems/min-stack/)| [python](.&#x2F;solutions&#x2F;155.min-stack&#x2F;min-stack.py)|Easy|31.83%||
 |173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [ruby](.&#x2F;solutions&#x2F;173.binary-search-tree-iterator&#x2F;binary-search-tree-iterator.rb)|Medium|43.92%||
 |199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/)| [ruby](.&#x2F;solutions&#x2F;199.binary-tree-right-side-view&#x2F;binary-tree-right-side-view.rb)|Medium|43.01%||
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands/)| [python](.&#x2F;solutions&#x2F;200.number-of-islands&#x2F;number-of-islands.py)|Medium|37.04%||
@@ -53,6 +55,10 @@
 |292|[nim-game](https://leetcode.com/problems/nim-game/)| [ruby](.&#x2F;solutions&#x2F;292.nim-game&#x2F;nim-game.rb)|Easy|55.38%||
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [ruby](.&#x2F;solutions&#x2F;297.serialize-and-deserialize-binary-tree&#x2F;serialize-and-deserialize-binary-tree.rb)|Hard|35.49%||
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)| [ruby](.&#x2F;solutions&#x2F;325.maximum-size-subarray-sum-equals-k&#x2F;maximum-size-subarray-sum-equals-k.rb)|Medium|43.09%|:heavy_check_mark:|
+|387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/)| [python](.&#x2F;solutions&#x2F;387.first-unique-character-in-a-string&#x2F;first-unique-character-in-a-string.py)|Easy|47.29%||
+|438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [python](.&#x2F;solutions&#x2F;438.find-all-anagrams-in-a-string&#x2F;find-all-anagrams-in-a-string.py)|Easy|33.97%||
+|675|[cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)| [python](.&#x2F;solutions&#x2F;675.cut-off-trees-for-golf-event&#x2F;cut-off-trees-for-golf-event.py)|Hard|26.96%||
 |768|[partition-labels](https://leetcode.com/problems/partition-labels/)| [python](.&#x2F;solutions&#x2F;768.partition-labels&#x2F;partition-labels.py)|Medium|64.54%||
+|782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/)| [python](.&#x2F;solutions&#x2F;782.jewels-and-stones&#x2F;jewels-and-stones.py)|Easy|81.95%||
 |837|[most-common-word](https://leetcode.com/problems/most-common-word/)| [python](.&#x2F;solutions&#x2F;837.most-common-word&#x2F;most-common-word.py)|Easy|49.51%||
 
