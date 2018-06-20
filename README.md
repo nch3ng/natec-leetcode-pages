@@ -1,16 +1,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-43/766(133)-green.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Hard-4-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-15-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-24-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-49/770(133)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-5-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-18-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-26-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
 <p align="center">
     <b>Language: java ruby javascript python</b>
     <br>
-    <b>Last updated: 2018-06-14</b>
+    <b>Last updated: 2018-06-19</b>
     <br><br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -21,20 +21,25 @@
 |001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.java) [python](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.py) [javascript](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.js) [ruby](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.rb)|Easy|38.36%||
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [java](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.java) [ruby](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.rb)|Medium|28.86%||
 |003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [ruby](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.rb) [java](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.java)|Medium|24.79%||
+|005|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)| [python](.&#x2F;solutions&#x2F;005.longest-palindromic-substring&#x2F;longest-palindromic-substring.py)|Medium|25.49%||
 |006|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)| [ruby](.&#x2F;solutions&#x2F;006.zigzag-conversion&#x2F;zigzag-conversion.rb)|Medium|27.76%||
 |007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [javascript](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.js)|Easy|24.38%||
+|017|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [python](.&#x2F;solutions&#x2F;017.letter-combinations-of-a-phone-number&#x2F;letter-combinations-of-a-phone-number.py)|Medium|37.11%||
 |020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [python](.&#x2F;solutions&#x2F;020.valid-parentheses&#x2F;valid-parentheses.py)|Easy|34.19%||
 |026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [ruby](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.rb) [java](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.java)|Easy|36.90%||
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [ruby](.&#x2F;solutions&#x2F;027.remove-element&#x2F;remove-element.rb)|Easy|41.20%||
 |028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [ruby](.&#x2F;solutions&#x2F;028.implement-strstr&#x2F;implement-strstr.rb)|Easy|29.28%||
+|042|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)| [python](.&#x2F;solutions&#x2F;042.trapping-rain-water&#x2F;trapping-rain-water.py)|Hard|38.12%||
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [python](.&#x2F;solutions&#x2F;048.rotate-image&#x2F;rotate-image.py)|Medium|42.58%||
 |067|[add-binary](https://leetcode.com/problems/add-binary/)| [ruby](.&#x2F;solutions&#x2F;067.add-binary&#x2F;add-binary.rb)|Easy|34.63%||
+|098|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)| [python](.&#x2F;solutions&#x2F;098.validate-binary-search-tree&#x2F;validate-binary-search-tree.py)|Medium|24.21%||
 |106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [ruby](.&#x2F;solutions&#x2F;106.construct-binary-tree-from-inorder-and-postorder-traversal&#x2F;construct-binary-tree-from-inorder-and-postorder-traversal.rb)|Medium|34.34%||
 |107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [ruby](.&#x2F;solutions&#x2F;107.binary-tree-level-order-traversal-ii&#x2F;binary-tree-level-order-traversal-ii.rb)|Easy|42.74%||
 |108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [ruby](.&#x2F;solutions&#x2F;108.convert-sorted-array-to-binary-search-tree&#x2F;convert-sorted-array-to-binary-search-tree.rb)|Easy|45.23%||
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [ruby](.&#x2F;solutions&#x2F;110.balanced-binary-tree&#x2F;balanced-binary-tree.rb)|Easy|38.70%||
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [ruby](.&#x2F;solutions&#x2F;111.minimum-depth-of-binary-tree&#x2F;minimum-depth-of-binary-tree.rb)|Easy|33.73%||
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [ruby](.&#x2F;solutions&#x2F;114.flatten-binary-tree-to-linked-list&#x2F;flatten-binary-tree-to-linked-list.rb)|Medium|37.18%||
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [python](.&#x2F;solutions&#x2F;121.best-time-to-buy-and-sell-stock&#x2F;best-time-to-buy-and-sell-stock.py)|Easy|43.47%||
 |139|[word-break](https://leetcode.com/problems/word-break/)| [ruby](.&#x2F;solutions&#x2F;139.word-break&#x2F;word-break.rb)|Medium|31.83%||
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [ruby](.&#x2F;solutions&#x2F;144.binary-tree-preorder-traversal&#x2F;binary-tree-preorder-traversal.rb) [python](.&#x2F;solutions&#x2F;144.binary-tree-preorder-traversal&#x2F;binary-tree-preorder-traversal.py)|Medium|47.39%||
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [ruby](.&#x2F;solutions&#x2F;145.binary-tree-postorder-traversal&#x2F;binary-tree-postorder-traversal.rb) [python](.&#x2F;solutions&#x2F;145.binary-tree-postorder-traversal&#x2F;binary-tree-postorder-traversal.py)|Hard|43.02%||
@@ -56,6 +61,7 @@
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [python](.&#x2F;solutions&#x2F;297.serialize-and-deserialize-binary-tree&#x2F;serialize-and-deserialize-binary-tree.py) [ruby](.&#x2F;solutions&#x2F;297.serialize-and-deserialize-binary-tree&#x2F;serialize-and-deserialize-binary-tree.rb)|Hard|35.50%||
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)| [ruby](.&#x2F;solutions&#x2F;325.maximum-size-subarray-sum-equals-k&#x2F;maximum-size-subarray-sum-equals-k.rb)|Medium|43.10%|:heavy_check_mark:|
 |387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/)| [python](.&#x2F;solutions&#x2F;387.first-unique-character-in-a-string&#x2F;first-unique-character-in-a-string.py)|Easy|47.29%||
+|409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome/)| [python](.&#x2F;solutions&#x2F;409.longest-palindrome&#x2F;longest-palindrome.py)|Easy|46.13%||
 |438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [python](.&#x2F;solutions&#x2F;438.find-all-anagrams-in-a-string&#x2F;find-all-anagrams-in-a-string.py)|Easy|33.97%||
 |675|[cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)| [python](.&#x2F;solutions&#x2F;675.cut-off-trees-for-golf-event&#x2F;cut-off-trees-for-golf-event.py)|Hard|26.96%||
 |768|[partition-labels](https://leetcode.com/problems/partition-labels/)| [python](.&#x2F;solutions&#x2F;768.partition-labels&#x2F;partition-labels.py)|Medium|64.62%||
